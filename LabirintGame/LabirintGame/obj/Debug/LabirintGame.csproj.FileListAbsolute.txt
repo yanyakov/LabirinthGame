@@ -1,0 +1,7 @@
+C:\Users\Ян Яков\source\repos\LabirintGame\LabirintGame\bin\Debug\LabirintGame.exe.config
+C:\Users\Ян Яков\source\repos\LabirintGame\LabirintGame\bin\Debug\LabirintGame.exe
+C:\Users\Ян Яков\source\repos\LabirintGame\LabirintGame\bin\Debug\LabirintGame.pdb
+C:\Users\Ян Яков\source\repos\LabirintGame\LabirintGame\obj\Debug\LabirintGame.csproj.AssemblyReference.cache
+C:\Users\Ян Яков\source\repos\LabirintGame\LabirintGame\obj\Debug\LabirintGame.csproj.CoreCompileInputs.cache
+C:\Users\Ян Яков\source\repos\LabirintGame\LabirintGame\obj\Debug\LabirintGame.exe
+C:\Users\Ян Яков\source\repos\LabirintGame\LabirintGame\obj\Debug\LabirintGame.pdb
