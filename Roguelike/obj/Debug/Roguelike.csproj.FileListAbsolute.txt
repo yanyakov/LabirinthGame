@@ -1,0 +1,8 @@
+C:\Users\doros\Desktop\Roguelike\obj\Debug\Roguelike.csproj.AssemblyReference.cache
+C:\Users\doros\Desktop\Roguelike\obj\Debug\Roguelike.csproj.SuggestedBindingRedirects.cache
+C:\Users\doros\Desktop\Roguelike\obj\Debug\Roguelike.csproj.CoreCompileInputs.cache
+C:\Users\doros\Desktop\Roguelike\bin\Debug\Roguelike.exe.config
+C:\Users\doros\Desktop\Roguelike\bin\Debug\Roguelike.exe
+C:\Users\doros\Desktop\Roguelike\bin\Debug\Roguelike.pdb
+C:\Users\doros\Desktop\Roguelike\obj\Debug\Roguelike.exe
+C:\Users\doros\Desktop\Roguelike\obj\Debug\Roguelike.pdb
